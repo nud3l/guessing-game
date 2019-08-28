@@ -1,3 +1,6 @@
+// Rust book tutorial chapter 2
+// https://doc.rust-lang.org/stable/book/ch02-00-guessing-game-tutorial.html
+
 use std::io;
 use std::cmp::Ordering;
 use rand::Rng;
